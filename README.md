@@ -14,10 +14,10 @@ Either:
 - GUI: drag a file or folder to the `doc2docx.app`
 - CLI: `open <path_to>/doc2docx.app --args <folder>`
 
-Alternatively, there's a lightweight `doc2docx-applescript.workflow`:
+Alternatively, there's a lightweight `doc2docx.workflow`:
 
 ```bash
-automator -i <path-to-folder> <path-to>/doc2docx-applescript.workflow
+automator -i <path-to-folder> <path-to>/doc2docx.workflow
 ```
 
 In addition, there are 2 workflows that uses Microsoft Word 2011 for Mac's action for conversion (the above uses Applescript), put in the folder `achive/`. But I found that the Microsoft Office 2011 provided automator component doesn't really convert doc to docx in the way that
