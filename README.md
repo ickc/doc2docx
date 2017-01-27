@@ -27,6 +27,8 @@ In addition, there are 2 workflows that uses Microsoft Word 2011 for Mac's actio
 
 Because of that, the achived scripts is of limited use.
 
+Note: a `ppt2pptx.app` is newly added, but it assumes all files in the folder are presentation without checking it @todo
+
 # Why not 2016?
 
 - Microsoft Word 2016 is a regression in terms of both `.doc` handling and automator integration. YMMV if you use 2016 instead.
